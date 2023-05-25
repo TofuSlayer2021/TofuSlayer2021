@@ -1,0 +1,31 @@
+body {
+    background-color:#facfec; 
+  } 
+  h1 {
+    font-family: 'Cherry Bomb One', cursive;
+    font-size: 200pt;
+    color: #ff0378;
+    text-align: center;
+  }
+  .bruh {
+    font-size: 70pt;
+  }
+  h2 {
+      font-family: 'Cherry Bomb One', cursive;
+    font-size: 50pt;
+    color: #ff0378;
+    text-align: center;
+  }
+  h3 {
+      font-family: 'Cherry Bomb One', cursive;
+    font-size: 50pt;
+    color: #ff0378;
+    text-align: center;
+  }
+  img {
+    max-width: 90%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
